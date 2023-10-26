@@ -11,4 +11,7 @@ class Main{
     public class thirdClass{
 
     }
+    public class fourthClass{
+
+    }
 }

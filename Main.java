@@ -8,4 +8,7 @@ class Main{
     public class secondClass{
 
     }
+    public class thirdClass{
+
+    }
 }

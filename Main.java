@@ -5,4 +5,7 @@ class Main{
     public class firstClass{
 
     }
+    public class secondClass{
+
+    }
 }
